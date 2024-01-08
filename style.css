@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+/* first section */
 .banner{
 
     margin-top: 50px;
@@ -43,6 +44,53 @@ height: 190px;
 align-content: center;
 
 }
+/* section section */
+
+.offer-1{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    
+}
+.offer-2{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+
+font-weight: 700;
+margin-bottom: 40px;
+
+}
+.offer-3{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+
+font-weight: 500;
+
+}
+.offer-4{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+margin-bottom: 40px;
+
+}
+.offer-5{
+width: 800px;
+height: 500px;
+align-items: center;
+text-align: center;
+align-self: center;
+margin-left: 400px;
+margin-right: 400px;
+}
+
 
 
 
